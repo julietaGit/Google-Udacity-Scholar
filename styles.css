@@ -1,0 +1,12 @@
+/* add your CSS here */
+.header{border:2px solid #42332C; padding:5px 1em 0 1em;}
+img{
+	width:300px;  
+	max-width: 100%;
+    height: auto;
+}
+
+ul{list-style: none outside none;}
+#fact{font-style: italic;}
+span{font-weight: bold;}
+/* h3{padding:3px;} */
