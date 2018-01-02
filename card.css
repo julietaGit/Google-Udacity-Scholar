@@ -8,7 +8,7 @@ img{
 	border:1px solid #8BA4C3;
 }
 
-ul{list-style: none outside none;}
+ul{list-style: none outside none;padding: 1px;}
 #fact{font-style: italic;}
 span{font-weight: bold;}
 /* h3{padding:3px;} */
