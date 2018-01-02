@@ -1,9 +1,11 @@
 /* add your CSS here */
-.header{border:2px solid #42332C; padding:5px 1em 0 1em;}
+.body{width: 400px;margin: 0 auto; box-shadow: 3px 3px #CDCAB9;}
+.content{border:1px solid #CDCAB9; padding:10px;  }
 img{
-	width:300px;  
+	width:400px;  
 	max-width: 100%;
     height: auto;
+	border:1px solid #8BA4C3;
 }
 
 ul{list-style: none outside none;}
